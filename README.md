@@ -9,3 +9,4 @@
 - 💬 Ask me about my favorite recipes.
 - 😄 Pronouns: she/her
 
+I enjoy exploring [Cooking-Recipes](https://github.com/topics/cooking-recipes) for cooking-related repositories.
